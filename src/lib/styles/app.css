@@ -1,0 +1,3 @@
+.color-panel {
+    background: attr(data-color);
+}
